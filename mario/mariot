@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
-
+.
 //Validar a entrada de apenas numeros de 1 a 8
 int main(void)
 {
