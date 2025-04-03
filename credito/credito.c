@@ -1,7 +1,7 @@
 #include <cs50.h>
 #include <math.h>
 #include <stdio.h>
-
+.
 int digitos(long cartao);
 int primeiros_d(long cartao, int num_d);
 int mult(long cartao);
